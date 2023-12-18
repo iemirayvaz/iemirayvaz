@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iemirayvaz
 - 👀 I’m interested in ai and brain
-- 🌱 I’m currently learning machine learning, r
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me ieayvaz@protonmail.ch
 
 <!---
